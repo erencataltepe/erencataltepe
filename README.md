@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/erencataltepe" target="blank"><img src="https://img.shields.io/twitter/follow/erencataltepe?logo=twitter&style=for-the-badge" alt="erencataltepe" /></a> </p>
 
-- 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **erencataltepe@gmail.com**
